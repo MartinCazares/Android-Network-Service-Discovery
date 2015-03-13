@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidNSD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_btn">Register</string>
+    <string name="discovery_btn">Discover</string>
+    <string name="say_hello_btn">Say Hello!</string>
+    <string name="devices_not_found_toast">No Service found yet...</string>
+    <string name="select_mode_dlg_msg">Select if you want to discover or register a service.</string>
+    <string name="discover_dlg_btn">Discover</string>
+    <string name="register_dlg_btn">Register</string>
+
+</resources>
